@@ -7,7 +7,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- ![image alt](https://github.com/manoj0404/Moive_Project1/commit/5a39504db6d2784c73faa0fd07f6ea3946b9a923)
+<h2>Home Page</h2>
+![Screenshot 2024-08-24 154119](https://github.com/user-attachments/assets/710efdf6-fa67-414a-a565-2a171895927e)
 
 
 
